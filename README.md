@@ -1,8 +1,17 @@
-# PBL_Nhom-2
-Chuong trinh quan li kho hang.
+# Warehouse Management System
 
-Dự án quản lý kho hàng được hoàn thiện dựa trên các kiến thức của bộ môn lập trình hướng đối tượng (OOP). 
-Bao gồm các lớp và chức năng được liên kết với nhau từ đó hình thành nên các chức năng để tạo, hiển thị và quản lý các sản phẩm trong kho.
-Từ đó tạo được chương trình giúp cho người chủ kho có thể quản lí kho hàng của mình 1 cách hiệu quả và chuyên nghiệp.  
-Kết quả: Nhóm em đã ra chương trình quản lí kho hàng chạy thành công với các chức năng khá hoàn thiện, giao diện dễ sử dụng và 
-sử dụng file nhị phân tối ưu hóa việc bảo mật thông tin.
+## Overview
+This project is a Warehouse Management System developed using **Object-Oriented Programming (OOP) in C++**. It efficiently manages inventory by tracking stock levels, adding new products, and recording inventory transactions.
+
+## Features
+- **Product Management**: Add, update, delete, and search for products.
+- **Inventory Tracking**: Monitor stock levels in real-time.
+- **Transaction Logging**: Record incoming and outgoing stock movements.
+- **Binary File Storage**: Utilize binary files for efficient data storage and retrieval.
+- **User-friendly Interface**: Simple command-line interface for easy interaction.
+
+## Technologies Used
+- **Programming Language**: C++
+- **Paradigm**: Object-Oriented Programming (OOP)
+- **Data Storage**: Binary file handling
+
